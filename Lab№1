@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Структура для хранения результата решения квадратного уравнения
+// Структура для хранения результата решения квадратно11го уравнения
 struct QuadraticEquationResult {
     bool hasSolution;
     double root1;
